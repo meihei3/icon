@@ -1,5 +1,11 @@
 # meihei's icon
 
+|Type|File|Preview|
+|:-|:-|:-|
+|JPEG|https://github.com/meihei3/icon/blob/main/icon.jpg|<img width="128" src="https://raw.githubusercontent.com/meihei3/icon/main/icon.jpg">|
+|PNG|https://github.com/meihei3/icon/blob/main/icon.png|<img width="128" src="https://raw.githubusercontent.com/meihei3/icon/main/icon.png">|
+|SVG|https://github.com/meihei3/icon/blob/main/icon.svg|<img width="128" src="https://raw.githubusercontent.com/meihei3/icon/main/icon.svg">|
+
 ## 利用規約
 
 公開されているアイコンは、meihei([@app1e_s](https://twitter.com/app1e_s))の許可なく使用することを禁止しています。  
